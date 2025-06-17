@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
+uv.lock
+.env
+.devcontainer/
+
+# Virtual environments
+.venv
+
+scratchpad.ipynb
+queries/scratchpad.sql

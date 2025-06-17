@@ -1,0 +1,7 @@
+streamlit
+plotly 
+flipside
+python-dotenv
+clickhouse-connect
+asyncio
+nbformat>=4.2.0
